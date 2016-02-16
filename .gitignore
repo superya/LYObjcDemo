@@ -1,6 +1,11 @@
 
 *.xcuserstate
 
+<<<<<<< HEAD
+=======
+*.xcuserstate
+
+>>>>>>> master
 *.xccheckout
 
 *.xcuserstate
