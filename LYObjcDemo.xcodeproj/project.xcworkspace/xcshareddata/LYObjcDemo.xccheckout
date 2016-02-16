@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
+	<string>6707549F-1B98-4BE0-86D2-CA950BCA4DEB</string>
+=======
 	<string>A4A8BEC2-0339-44F6-BD17-C80E202FF01A</string>
+>>>>>>> LYObjcDemoBranch1
 	<key>IDESourceControlProjectName</key>
 	<string>LYObjcDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
