@@ -18,10 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 
-    self.title = @"master";
+    self.title = @"title 0 title";
     
-    NSString *info = @"title 2 title";
-
 }
 
 - (void)didReceiveMemoryWarning {
