@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 
-    self.title = @"branch2";
+    self.title = @"master";
     
     NSString *info = @"title 2 title";
 
